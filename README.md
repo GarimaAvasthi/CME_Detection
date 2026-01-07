@@ -1,6 +1,6 @@
 # CME Detection & Space Weather Monitoring System
 
-> **Made for Team Digi Shakti - Smart India Hackathon (SIH)**
+> **Made for Team DigiShakti - Smart India Hackathon (SIH)**
 
 A comprehensive real-time space weather monitoring and Coronal Mass Ejection (CME) detection system with predictive analytics. This system provides real-time monitoring, detection, and forecasting of space weather events including CMEs, geomagnetic storms, and solar activity.
 
@@ -66,7 +66,7 @@ cd Cme_detection_Phased2
 ```bash
 cd backend
 
-# Create virtual environment (recommended)
+# Create a virtual environment (recommended)
 python -m venv venv
 
 # Activate virtual environment
